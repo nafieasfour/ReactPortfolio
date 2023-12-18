@@ -2,7 +2,7 @@ import "./topbar.scss";
 import AlternateEmailIcon from "@mui/icons-material/AlternateEmail";
 import AddIcCallIcon from "@mui/icons-material/AddIcCall";
 
-export default function topbar({menuOpen, setMenuOpen}) {
+export default function topbar({ menuOpen, setMenuOpen }) {
   return (
     <div className={"topbar " + (menuOpen && "active")}>
       <div className="wrapper">
