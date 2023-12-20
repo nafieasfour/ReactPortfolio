@@ -8,15 +8,15 @@ export default function topbar({ menuOpen, setMenuOpen }) {
       <div className="wrapper">
         <div className="left">
           <a href="#intro" className="logo">
-            genius.
+            Contacts:
           </a>
           <div className="itemContainer">
             <AddIcCallIcon className="icon" />
-            <span>009055555555</span>
+            <span>00905364351534</span>
           </div>
           <div className="itemContainer">
             <AlternateEmailIcon className="icon" />
-            <span>blah@gmail.com</span>
+            <span>ph.nafee.asfour[at]gmail[dot]com</span>
           </div>
         </div>
 

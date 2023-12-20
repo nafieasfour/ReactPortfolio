@@ -1,8 +1,8 @@
 export const featuredPortfolio = [
   {
     id: 1,
-    title: "Social Media App",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+    title: "Crowdfunding App",
+    img: "https://cdn.dribbble.com/userupload/12041035/file/original-fc9486bd7f48a6a122643b93ca7788d9.png?resize=752x",
   },
   {
     id: 2,
