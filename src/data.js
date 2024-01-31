@@ -6,8 +6,8 @@ export const featuredPortfolio = [
   },
   {
     id: 2,
-    title: "Rampa UI Design",
-    img: "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+    title: "Meta Front End certified",
+    img: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4X2BUXLE5GW3/CERTIFICATE_LANDING_PAGE~4X2BUXLE5GW3.jpeg",
   },
   {
     id: 3,
